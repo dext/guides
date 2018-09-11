@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Receipt Bank
+description: A collection of guides on our company culture
+plugins:
+  - jemoji
