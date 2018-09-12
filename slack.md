@@ -63,10 +63,8 @@ broader circle of people. Just make sure you do the following:
 * Some channels are in Bulgarian. That's perfectly fine as Slack is very heavily used by the dev
   team and they have many channels. They don't follow a special nomenclature (which would be
   heavily inconvenient), but they will be indicated with a Bulgarian flag (:flag-bg:) in the topic.
-
 * Some channels used by the Dev team are expected to be thread-only. They are indicated with
-  :speech_balloon:.
-
+  the `:speech_balloon:` emoji (:speech_balloon:).
 * If your channel has a lifespan (you want to have a conversation around a topic and once it's
   over, you're done – you may want to reach a decision in a group, for example), it's nice to
   archive once you're done with it.
