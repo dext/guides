@@ -10,8 +10,16 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <a class="project-header" href='{{site.url}}'>
+        <img src='{{site.url}}/assets/images/receipt-bank-logo.svg' />
+      </a>
+
+      <div class="project-tagline">
+        <span>
+          A collection of guides on our company culture
+        </span>
+        <img src='{{site.url}}/assets/images/bubble-icon.svg' />
+      </div>
     </header>
 
     <main id="content" class="main-content" role="main">

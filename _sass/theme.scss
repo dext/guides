@@ -1,7 +1,8 @@
 @import "normalize";
 @import "rouge-github";
 @import "variables";
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway:600i,800');
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
@@ -28,10 +29,11 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
+  font-weight: 300;
 }
 
 a {
@@ -88,10 +90,9 @@ a {
 }
 
 .page-header {
-  color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-image: url('../images/header.png');
+  background-size: cover;
 
   @include large {
     padding: 5rem 6rem;
@@ -102,42 +103,59 @@ a {
   }
 
   @include small {
-    padding: 2rem 1rem;
+    padding: 2rem 0rem;
   }
 }
 
-.project-name {
-  margin-top: 0;
-  margin-bottom: 0.1rem;
+.project-header {
+  img {
+    @include large {
+      width: 40rem;
+    }
 
-  @include large {
-    font-size: 3.25rem;
-  }
+    @include medium {
+      width: 30rem;
+    }
 
-  @include medium {
-    font-size: 2.25rem;
-  }
-
-  @include small {
-    font-size: 1.75rem;
+    @include small {
+      width: 13rem;
+    }
   }
 }
 
 .project-tagline {
-  margin-bottom: 2rem;
-  font-weight: normal;
-  opacity: 0.7;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-style: italic;
+  color: #fff;
+
+  img {
+    @include large {
+      padding-left: 0.8rem;
+      width: 3.5rem;
+    }
+
+    @include medium {
+      padding-left: 0.7rem;
+      width: 2rem;
+    }
+
+    @include small {
+      padding-left: 0.5rem;
+      width: 1.5rem;
+    }
+  }
 
   @include large {
-    font-size: 1.25rem;
+    font-size: 1.35rem;
   }
 
   @include medium {
-    font-size: 1.15rem;
+    font-size: 1rem;
   }
 
   @include small {
-    font-size: 1rem;
+    font-size: 0.7rem;
   }
 }
 
@@ -149,20 +167,22 @@ a {
   }
 
   @include large {
-    max-width: 64rem;
-    padding: 2rem 6rem;
+    max-width: 72rem;
+    padding: 3rem 6rem;
     margin: 0 auto;
-    font-size: 1.1rem;
+    font-size: 1.3rem;
   }
 
   @include medium {
-    padding: 2rem 4rem;
-    font-size: 1.1rem;
+    max-width: 62rem;
+    margin: 0 auto;
+    padding: 3rem 4rem;
+    font-size: 1.2rem;
   }
 
   @include small {
-    padding: 2rem 1rem;
-    font-size: 1rem;
+    padding: 3rem 1rem;
+    font-size: 1.1rem;
   }
 
   img {
@@ -176,9 +196,11 @@ a {
   h5,
   h6 {
     margin-top: 2rem;
-    margin-bottom: 1rem;
+    margin-bottom: -0.8rem;
     font-weight: normal;
     color: $section-headings-color;
+    font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 800;
   }
 
   p {
@@ -192,6 +214,7 @@ a {
     color: $code-text-color;
     background-color: $code-bg-color;
     border-radius: 0.3rem;
+    border: 1px solid $border-color;
   }
 
   pre {
@@ -263,7 +286,7 @@ a {
     padding: 0 1rem;
     margin-left: 0;
     color: $blockquote-text-color;
-    border-left: 0.3rem solid $border-color;
+    border-left: 0.3rem solid $blockquote-border-color;
 
     > :first-child {
       margin-top: 0;

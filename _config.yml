@@ -1,4 +1,5 @@
 title: Receipt Bank
 description: A collection of guides on our company culture
+permalink: pretty
 plugins:
   - jemoji
