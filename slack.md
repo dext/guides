@@ -1,10 +1,10 @@
 # Slack guidelines
 
-Hi and welcome to Slack!
+Hi and welcome to Receipt Bank!
 
 It's nice to have you here!
 
-This document will acquaint you with how we do things around here. It's pretty big and we like to
+This document will acquaint you with how we use Slack around here. It's pretty big and we like to
 keep it organised. Please read this document carefully and follow the instructions.
 
 ## Your Slack profile
