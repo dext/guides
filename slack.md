@@ -41,8 +41,13 @@ That's it – you're done with your profile. Let's look at some ground rules.
 
 ## Channels
 
-For starts, hop in `#general` and `#random`. The first one should be for general Receipt Bank
-related conversations. You can use the second for jokes, cat pictures or baking recipes.
+For starts, hop in the following channels:
+
+* `#general` – this one is for general Receipt Bank related conversations.
+* `#company-announcements` – this channel is for company updates and announcements you may want to 
+  share with the rest of the company.
+* `#random` – use it for jokes, cat pictures or baking recipes.
+* `#newbie-intros` – if you are new, introduce yourself here.
 
 There are various channels for various topics, so it might be worth it to give a quick glance over
 the list of channels and see if you're interested in any. Don't fret too much about it – if you are
