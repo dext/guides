@@ -47,7 +47,8 @@ For starts, hop in the following channels:
 * `#company-announcements` – this channel is for company updates and announcements you may want to 
   share with the rest of the company.
 * `#random` – use it for jokes, cat pictures or baking recipes.
-* `#newbie-intros` – if you are new, introduce yourself here.
+* `#hellos-goodbyes` – if you are new, introduce yourself here.
+* `#all-hands-meeting` - notes and recordings from all-hands meetings.
 
 There are various channels for various topics, so it might be worth it to give a quick glance over
 the list of channels and see if you're interested in any. Don't fret too much about it – if you are
