@@ -74,6 +74,9 @@ broader circle of people. Just make sure you do the following:
 * If your channel has a lifespan (you want to have a conversation around a topic and once it's
   over, you're done – you may want to reach a decision in a group, for example), it's nice to
   archive once you're done with it.
+* Don't use private channels, unless you really need to. We try to keep a culture of transparency
+  here. All team channels in particular should be public - if you find yourself in a private team
+  channel, please archive it and create a new public one.
 
 Keep in mind that channel names are unique, even for private channels. If you intend to create
 multiple channels for related topics, it is nice to prefix them with a single short word or
