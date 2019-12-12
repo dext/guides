@@ -47,7 +47,8 @@ For starts, hop in the following channels:
 * `#company-announcements` – this channel is for company updates and announcements you may want to 
   share with the rest of the company.
 * `#random` – use it for jokes, cat pictures or baking recipes.
-* `#newbie-intros` – if you are new, introduce yourself here.
+* `#hellos-goodbyes` – if you are new, introduce yourself here.
+* `#all-hands-meeting` - notes and recordings from all-hands meetings.
 
 There are various channels for various topics, so it might be worth it to give a quick glance over
 the list of channels and see if you're interested in any. Don't fret too much about it – if you are
@@ -73,6 +74,9 @@ broader circle of people. Just make sure you do the following:
 * If your channel has a lifespan (you want to have a conversation around a topic and once it's
   over, you're done – you may want to reach a decision in a group, for example), it's nice to
   archive once you're done with it.
+* Don't use private channels, unless you really need to. We try to keep a culture of transparency
+  here. All team channels in particular should be public - if you find yourself in a private team
+  channel, please archive it and create a new public one.
 
 Keep in mind that channel names are unique, even for private channels. If you intend to create
 multiple channels for related topics, it is nice to prefix them with a single short word or
