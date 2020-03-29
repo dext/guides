@@ -43,47 +43,15 @@ Feel free to create new channels any time you will need to. Here are some guidel
 
 Keep in mind that channel names are unique, even for private channels. If you intend to create multiple channels for related topics, it is nice to prefix them with a single short word or abbreviation.
 
-## Messaging users
+## Messaging people
 
-Slack is intended for asynchronous communication. This means that people don't need to be in it at
-the same time – somebody can message you now you can reply later when you see the message. In
-practice, this means two things:
+Slack is intended for asynchronous communication. This means that people don't need to be in it at the same time – somebody can message you now and you can reply later, when you see the message. In practice, this means two things:
 
-* It's perfectly OK to message anybody at any time. They are neither expected to see it immediately
-  nor to reply straight away. They can answer when they have the time or in between other tasks.
-  Don't expect people to respond instantly.
-* If there is an emergency, it's not the best way to get somebody's attention. That's why you had
-  to fill in your phone number earlier – if you need somebody right this minute, consider phoning
-  or messaging them. Don't do this unless it's really important – people need to be able to focus
-  to get work done and interruptions are the productivity killer.
+* It's perfectly OK to message anybody at any time. Nobody’s expected to see it or reply straight away. People will answer when they have the time or if it’s after-hours for them expect a response on their next working day.
+* If there is an emergency, it's not the best way to get somebody's attention. That's why we have our phone numbers in the Slack profile – if you need somebody right this minute, consider phoning or messaging them. But please don't do this unless it's really important – people need to be able to focus and get the work done. Interruptions are the productivity killer.
+* For important announcements that need to be seen by everybody Slack is not going to be enough, send those by email as well.
 
-Apart from that, feel free to contact anybody about anything.
-
-While we are at it, try to avoid the cardinal sin in Slack. It's sending a message with...
-
-> Hi!
-
-...and following by saying nothing.
-
-Remember, Slack is asynchronous. If you wait for the person you need to be online on the same time,
-you're breaking their flow. It forces them to constantly look at Slack so you two can be online at
-the same time. There is nothing wrong with pleasantries (our HQ is in Britain after all), but
-include why you are contacting the person and preferably something actionable for them to do. If
-you have a question about the Automation Platform and you think you might want to have a meeting,
-don't just say "Hi, can we talk?" or "Can we have a meeting later today?". Add some context and
-some plan of action:
-
-> Hey! I've been looking at the Automation Platform and I have a question. I'm wondering if directly
-  processes 1Tap receipts, or if they need to go through Receipt Bank for Accountants first. Do you
-  think we can have a meeting about that?
-
-This is much better! It doesn't just give the other person context about why you are contacting
-them – it also tells them what your question is. This gives them an opportunity to prepare a bit
-for the meeting, or even better – answer you right there in Slack and have no meeting at all
-(usually the best kind of meeting). Remember, the fewer interruptions we have, the more work we can
-get done.
-
-And that's all you need to know on messaging users.
+Avoid the cardinal sin of sending just “Hi” and waiting for the other side to reply. There is nothing wrong with pleasantries, but include why you are contacting the person and preferably something actionable for them to do. If you have a question and you think you might want to have a meeting, don't just say "Hi, can we talk?" or "Can we have a meeting later today?". Add some context and allow them to give you a meaningful reply.
 
 ## Statuses
 
