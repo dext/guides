@@ -2,37 +2,22 @@
 
 This page will acquaint you with how we use Slack in Receipt Bank. It's organized by topic. Please read it carefully and follow the instructions.
 
-## Your Slack profile
+## Slack profile
 
-Your [Slack profile](https://receipt-bank.slack.com/account/profile) is what your co-workers see
-about you. Having offices around the globe tends to make us a remote company, so it's important
-that your co-workers in far-away countries can get a good sense of you. Please fill in your profile
-neatly. It's best to fill in all fields, but the following are mandatory:
+[Your Slack profile](https://receipt-bank.slack.com/account/profile) is the first thing most of your coworkers see about you. Please fill it in neatly. It's best to fill in all the fields, but the following are mandatory:
 
-* **First name** and **Last name**. Use your full real name here.
-* **What I do.** This is shown under your picture in Slack. You can enter your official role here
-  or anything else that you think will help your coworkers understand what you do.
-* **Phone number.** Enter your phone number here. We won't use it, unless it's an emergency.
-* **Time Zone.** Be sure to specify it – it will help show Slack what the time is where you are if
-  they want to contact you.
-* **Role.** This is your official role, as per your role description.
+* **Full name.** Use your real names here.
+* **What I do.** This is shown under your picture in Slack. You can enter your official role or anything else that will help your coworkers understand what you do.
+* **Phone number.** Please enter your phone number. It’s not going to be used, unless it's an emergency.
+* **Time Zone.** It will help Slack and anyone who wants to contact you know what the time it is for you.
+* **Role.** Enter your official role, as per your role description.
 * **Location.** Where in the world you work from. Useful, since we're all around the globe.
-* **Team.** Which team are you a part of?
-* **Manager.** Enter the person you report to. If you are uncertain, that is usually the person you
-  have your one-to-ones with. If you can't find them, they might not be in Slack yet – make sure
-  you fill it once they are.
+* **Team.** Which team are you a part of.
+* **Manager.** Enter the person you report to. If you are uncertain, that is usually the person you have your one-to-ones with. If you can't find them, they might not be in Slack yet – make sure you fill it once they are.
 
-Please fill in all of the above in your profile. Fill in the other if you'd like.
+**Upload an Image**. It makes Slack considerably more personal. Don't just put in any picture there – use a photo where we can see your face and you can be identified. Bonus points if you manage to get in orange background with the Receipt Bank logo.
 
-The next step is to **upload a profile picture**. This is a **must have**, as it makes Slack
-considerably more personal. Don't just put in any picture there – use a photo where we can see your
-face and you can be identified. Bonus points if you manage to get in orange background with the
-Receipt Bank logo.
-
-Finally, if you're a developer or working with code, make sure **your username in Slack matches the
-one in GitHub**. If you don't have GitHub, you can ignore this.
-
-That's it – you're done with your profile. Let's look at some ground rules.
+If you're an engineer, make sure **your username in Slack matches the one in GitHub**. If you don't have GitHub, you can ignore this.
 
 ## Channels
 
