@@ -55,20 +55,11 @@ Avoid the cardinal sin of sending just “Hi” and waiting for the other side t
 
 ## Statuses
 
-Please use statuses only as means to communicate availability with the other team members. The two
-most commonly used statuses should be ":palm_tree: Vacationing" and ":face_with_thermometer: Out
-Sick". Occasionally it might be good to set a custom status if you're working weird hours or harder
-to reach.
+The two most commonly used statuses should be "🌴 Vacationing" and “🤒 Out sick". 
 
-When you set your status to ":palm_tree: Vacationing", always edit the default text and say when
-you'll be back, e.g. "Vacationing (back on Sept 25th)". This will be very convenient for people who
-want to contact you as they'll immediately see when you'll be back. In addition to this, feel free
-to use Slack's feature to automatically remove the vacationing status on a certain date.
+Please use statuses only as means to communicate availability or if your current situation is atypical. If you are always working remotely, there is no point in setting "🏡 Working Remotely". Also, avoid setting status only as a joke.
 
-Set a status only if your current situation is untypical and you want to communicate this to the
-rest of the team. If you are always working remotely, there is no point in setting ":house: Working
-Remotely". Also, please avoid setting status only to be cute or funny – they should be used to
-communicate availability with the team, not express moods.
+When you set your status to "🌴 Vacationing", edit the default text to add when you'll be back, e.g. "Vacationing (back on Sept 25th)". This is very useful for people who want to contact you as they'll immediately see when you'll be back.
 
 ## Still got questions?
 
