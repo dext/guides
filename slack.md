@@ -21,48 +21,27 @@ If you're an engineer, make sure **your username in Slack matches the one in Git
 
 ## Channels
 
-For starts, hop in the following channels:
+You should already be in the following channels. Please join them if you are not.
 
-* `#general` – this one is for general Receipt Bank related conversations.
-* `#company-announcements` – this channel is for company updates and announcements you may want to 
-  share with the rest of the company.
-* `#random` – use it for jokes, cat pictures or baking recipes.
-* `#hellos-goodbyes` – if you are new, introduce yourself here.
-* `#all-hands-meeting` - notes and recordings from all-hands meetings.
+* `#general` – Company-wide announcements and updates. What gets posted here is important, so we try to limit the volume of conversation and use threads, so that messages don’t get lost.
+* `#random` – Fun stuff. Anything that is non work related to keep us connected and remind us to be lighthearted.
+* `#hellos-goodbyes` – Say hello. Introduce yourself here.
+* `#all-hands-meeting` - Notes and recordings from all-hands meetings.
 
-There are various channels for various topics, so it might be worth it to give a quick glance over
-the list of channels and see if you're interested in any. Don't fret too much about it – if you are
-needed in a channel, people can easily invite you.
+There are many channels for various topics, so it might be worth it to give a quick glance over the list and see if you're interested in any. But don't fret too much about it – if you are needed somewhere, people will invite you.
 
-On the same note, feel free to open a channel any time you will want to have a conversation with a
-broader circle of people. Just make sure you do the following:
+## Creating new channels
 
-* If the channel consists of multiple words, separate them with dashes (-), not underscores (_),
-  like `#baking-recipes` or `#feature-requests`. In devspeak this is lovingly called "kebab case"
-  because all the words look like they are all held together on a shish kebab.
-* Always, always, **always set a channel purpose and topic**. The person reading it should get a good
-  sense of what this channel is all about. Remember that not everybody is in your department, so
-  make sure that you include enough context for the purpose to make sense to everybody. We
-  occasionally prune channels in order to keep the list manageable and purposes are of big help.
-  The topic is visible every time you look at the channel, so it should be a short reminder of what
-  it is about. The purpose can have a longer description.
-* Some channels are in Bulgarian. That's perfectly fine as Slack is very heavily used by the dev
-  team and they have many channels. They don't follow a special nomenclature (which would be
-  heavily inconvenient), but they will be indicated with a Bulgarian flag (:flag-bg:) in the topic.
-* Some channels used by the Dev team are expected to be thread-only. They are indicated with
-  the `:speech_balloon:` emoji (:speech_balloon:).
-* If your channel has a lifespan (you want to have a conversation around a topic and once it's
-  over, you're done – you may want to reach a decision in a group, for example), it's nice to
-  archive once you're done with it.
-* Don't use private channels, unless you really need to. We try to keep a culture of transparency
-  here. All team channels in particular should be public - if you find yourself in a private team
-  channel, please archive it and create a new public one.
+Feel free to create new channels any time you will need to. Here are some guidelines:
 
-Keep in mind that channel names are unique, even for private channels. If you intend to create
-multiple channels for related topics, it is nice to prefix them with a single short word or
-abbreviation.
+* Separate words in the channel name with dashes `-`, not underscores `_`. Like `#baking-recipes` or `#feature-requests`.
+* Always, **always add a topic to the channel**. Note that this can only be done after the channel is created. Anybody reading it should get a good sense of what the channel is about. And remember that not everybody is in your department, so make sure that you include enough context for everybody.
+* Some channels are in Bulgarian. That's perfectly fine as Slack is very heavily used by the Engineering team in Bulgaria. Those channels have a 🇧🇬 Bulgarian flag in the topic.
+* Some channels are expected to be thread-only. This is indicated with the `:speech_balloon:` emoji 💬.
+* When your channel is not needed anymore, please archive it.
+* Don't use private channels, unless you really, really need to. We’re trying to keep a culture of transparency here. All team channels should be public - if you find yourself in a private team channel, ask to archive it and create a new public one.
 
-That's all about channels. Now let's look into messaging users.
+Keep in mind that channel names are unique, even for private channels. If you intend to create multiple channels for related topics, it is nice to prefix them with a single short word or abbreviation.
 
 ## Messaging users
 
