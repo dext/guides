@@ -6,7 +6,7 @@ Receipt Bank is a remote organization, spread across four continents and numerou
 
 * Use long-form asynchronous communication by default. Don't schedule a meeting when a Slack message will do.
 * Over-communicate. Back-and-forth is expensive, so try to anticipate it, by including more details.
-* Switch to synchronous communication when it's more efficient. A quick zoom call sometimes will save you “hours” worth of Slack messages.
+* Switch to synchronous communication when it's more efficient. A quick zoom call will sometimes save you “hours” worth of Slack messages.
 * Leave a written trace of discussions. If you had a meeting with someone, post or email a summary of the key decisions you made.
 * Spend time to learn how the tools work and check your default settings.
 
@@ -50,7 +50,7 @@ Dress for work normally - working in your pajamas is a bad idea.
 
 Set up a separate place for work if possible. It could be in another room, or simply a desktop on which you’re only doing work, so your brain does not get distracted by non-work when you’re there.
 
-If you have a work computer that’s different from your personal computer, be very strict how you use it. If you have just one computer, keep a work and a personal browser separate - close the personal one during work hours and vice versa.
+If you have a work computer that’s different from your personal computer, be very strict how you use it. If you have just one computer, keep separate work and personal browsers - close the personal one during work hours and vice versa.
 
 Don’t underestimate ergonomics. Working on the couch with a laptop all day will get you cramped and may lead to serious injuries. It’s OK for meetings, but if you have to type a lot, consider a chair that lets you sit upright, or a standing desk.
 
