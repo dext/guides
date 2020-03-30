@@ -277,11 +277,6 @@ a {
     }
   }
 
-  ul,
-  ol {
-    margin-top: 0;
-  }
-
   blockquote {
     padding: 0 1rem;
     margin-left: 0;
@@ -299,10 +294,11 @@ a {
 
   table {
     display: block;
-    width: 100%;
+    margin-top: 2rem;
     overflow: auto;
-    word-break: normal;
+    width: 100%;
     word-break: keep-all; // For Firefox to horizontally scroll wider tables.
+    word-break: normal;
     -webkit-overflow-scrolling: touch;
 
     th {
