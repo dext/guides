@@ -35,7 +35,7 @@ There are many channels for various topics, so it might be worth it to give a qu
 Feel free to create new channels any time you will need to. Here are some guidelines:
 
 * Separate words in the channel name with dashes `-`, not underscores `_`. Like `#baking-recipes` or `#feature-requests`.
-* Always, **always add a topic to the channel**. Note that this can only be done after the channel is created. Anybody reading it should get a good sense of what the channel is about. And remember that not everybody is in your department, so make sure that you include enough context for everybody.
+* Always, **always add a topic to the channel**. Note that there is a difference between topic and description. The topic can be added/updated once the channel is created. Anybody reading the topic should get a good sense of what the channel is about. Remember that not everybody is in your department, so make sure that you include enough context for everybody.
 * Some channels are in Bulgarian. That's perfectly fine as Slack is very heavily used by the Engineering team in Bulgaria. Those channels have a 🇧🇬 Bulgarian flag in the topic.
 * Some channels are expected to be thread-only. This is indicated with the `:speech_balloon:` emoji 💬.
 * When your channel is not needed anymore, please archive it.
