@@ -1,6 +1,6 @@
 # Slack guidelines
 
-This page will acquaint you with how we use Slack in Receipt Bank. It's organized by topic. Please read it carefully and follow the instructions.
+This page will acquaint you with how we use Slack in Receipt Bank. It's organised by topic. Please read it carefully.
 
 ## Slack profile
 
@@ -32,13 +32,13 @@ There are many channels for various topics, so it might be worth it to give a qu
 
 ## Creating new channels
 
-Feel free to create new channels any time you will need to. Here are some guidelines:
+Feel free to create new channels any time you need to. Here are some guidelines:
 
 * Separate words in the channel name with dashes `-`, not underscores `_`. Like `#baking-recipes` or `#feature-requests`.
-* Always, **always add a topic to the channel**. Note that there is a difference between topic and description. The topic can be added/updated once the channel is created. Anybody reading the topic should get a good sense of what the channel is about. Remember that not everybody is in your department, so make sure that you include enough context for everybody.
+* Always, **always add a topic to the channel**. Note that there is a difference between topic and description. The topic is visible at the top of the screen when you've opened a channel, next to the channel's name. Anybody reading the topic should get a good sense of what the channel is about. Remember that not everybody is in your department, so make sure that you include enough context for everybody.
 * Some channels are in Bulgarian. That's perfectly fine as Slack is very heavily used by the Engineering team in Bulgaria. Those channels have a 🇧🇬 Bulgarian flag in the topic.
 * Some channels are expected to be thread-only. This is indicated with the `:speech_balloon:` emoji 💬.
-* When your channel is not needed anymore, please archive it.
+* When your channel is not needed anymore, please archive it. You can always unarchive it should you need it again.
 * Don't use private channels, unless you really, really need to. We’re trying to keep a culture of transparency here. All team channels should be public - if you find yourself in a private team channel, ask to archive it and create a new public one.
 
 Keep in mind that channel names are unique, even for private channels. If you intend to create multiple channels for related topics, it is nice to prefix them with a single short word or abbreviation.
@@ -57,7 +57,7 @@ Avoid the cardinal sin of sending just “Hi” and waiting for the other side t
 
 The two most commonly used statuses should be "🌴 Vacationing" and “🤒 Out sick". 
 
-Please use statuses only as means to communicate availability or if your current situation is atypical. If you are always working remotely, there is no point in setting "🏡 Working Remotely". Also, avoid setting status only as a joke.
+Please use statuses only as means to communicate availability or if your current situation is atypical. If you are always working remotely, there is no point in setting "🏡 Working Remotely". Also, avoid setting a status only as a joke.
 
 When you set your status to "🌴 Vacationing", edit the default text to add when you'll be back, e.g. "Vacationing (back on Sept 25th)". This is very useful for people who want to contact you as they'll immediately see when you'll be back.
 
