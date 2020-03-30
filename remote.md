@@ -20,10 +20,10 @@ Good communication is key. We divide it in two categories:
 
 Long-form asynchronous communication is a better default as it brings the following benefits:
 
-- It allows for wider participation, especially across time zones and different locations.
-- It leaves a searchable written trace of what was discussed and what decisions were made.
-- It allows people to take the time to properly consider the different viewpoints, to make their research and better craft their contribution to the discussion.
-- It allows for better time and focus management, avoiding the need to be interrupted by shoulder tapping or scheduled meetings.
+* It allows for wider participation, especially across time zones and different locations.
+* It leaves a searchable written trace of what was discussed and what decisions were made.
+* It allows people to take the time to properly consider the different viewpoints, to make their research and better craft their contribution to the discussion.
+* It allows for better time and focus management, avoiding the need to be interrupted by shoulder tapping or scheduled meetings.
 
 For a lot of cases, a well crafted Slack or email announcement or a proposal with a request for comments will be way more efficient than dragging a bunch of people onto a call.
 
