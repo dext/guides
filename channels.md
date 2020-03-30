@@ -11,7 +11,7 @@ Slack | Temporary | Asynchronous | General comms | Read direct messages and ment
 Zoom | Temporary | Synchronous | Meetings | Join on time.
 Google Docs | Temporary | Asynchronous | Collaboration | Follow up on comments in documents you’re involved in.
 GitHub | Permanent | Asynchronous | Code changes and code reviews | Read everything in your projects and all mentions within a day.
-Confluence | Permanent | Asynchronous | Processes and know-how | Different teams follow different spaces.
+Confluence | Permanent | Asynchronous | Processes and know-how | Read changes to pages and blog posts in the spaces you follow within a week.
 Jira | Temporary | Asynchronous | Project management | Read everything in your projects and all mentions within a day.
 Trello | Temporary | Asynchronous | Boards for visualising and managing work | Read comments within the day; keep cards up to date and provide regular status updates.
 
