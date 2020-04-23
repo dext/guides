@@ -23,7 +23,7 @@ If you're an engineer, make sure **your username in Slack matches the one in Git
 
 You should already be in the following channels. Please join them if you are not.
 
-* `#general` – Company-wide announcements and updates. What gets posted here is important, so we try to limit the volume of conversation and use threads, so that messages don’t get lost.
+* `#announcements` – Company-wide announcements and updates. What gets posted here is important, so we try to limit the volume of conversation and use threads, so that messages don’t get lost.
 * `#random` – Fun stuff. Anything that is non work related to keep us connected and remind us to be lighthearted.
 * `#hellos-goodbyes` – Say hello. Introduce yourself here.
 * `#all-hands-meeting` - Notes and recordings from all-hands meetings.
