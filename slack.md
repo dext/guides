@@ -1,10 +1,10 @@
 # Slack guidelines
 
-This page will acquaint you with how we use Slack in Receipt Bank. It's organised by topic. Please read it carefully.
+This page will acquaint you with how we use Slack in Dext. It's organised by topic. Please read it carefully.
 
 ## Slack profile
 
-[Your Slack profile](https://receipt-bank.slack.com/account/profile) is the first thing most of your coworkers see about you. Please fill it in neatly. It's best to fill in all the fields, but the following are mandatory:
+[Your Slack profile](https://dext.slack.com/account/profile) is the first thing most of your coworkers see about you. Please fill it in neatly. It's best to fill in all the fields, but the following are mandatory:
 
 * **Full name.** Use your real names here.
 * **What I do.** This is shown under your picture in Slack. You can enter your official role or anything else that will help your coworkers understand what you do.
@@ -15,7 +15,7 @@ This page will acquaint you with how we use Slack in Receipt Bank. It's organise
 * **Team.** Which team are you a part of.
 * **Manager.** Enter the person you report to. If you are uncertain, that is usually the person you have your one-to-ones with. If you can't find them, they might not be in Slack yet – make sure you fill it once they are.
 
-**Upload an Image**. It makes Slack considerably more personal. Don't just put in any picture there – use a photo where we can see your face and you can be identified. Bonus points if you manage to get in orange background with the Receipt Bank logo.
+**Upload an Image**. It makes Slack considerably more personal. Don't just put in any picture there – use a photo where we can see your face and you can be identified. Bonus points if you manage to get in orange background with the Dext logo.
 
 If you're an engineer, make sure **your username in Slack matches the one in GitHub**. If you don't have GitHub, you can ignore this.
 

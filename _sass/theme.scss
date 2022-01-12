@@ -95,30 +95,30 @@ a {
   background-size: cover;
 
   @include large {
-    padding: 5rem 6rem;
+    padding: 4rem 6rem;
   }
 
   @include medium {
-    padding: 3rem 4rem;
+    padding: 2rem 4rem;
   }
 
   @include small {
-    padding: 2rem 0rem;
+    padding: 1rem 0rem;
   }
 }
 
 .project-header {
   img {
     @include large {
-      width: 40rem;
+      width: 15rem;
     }
 
     @include medium {
-      width: 30rem;
+      width: 10rem;
     }
 
     @include small {
-      width: 13rem;
+      width: 6rem;
     }
   }
 }
