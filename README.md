@@ -9,8 +9,7 @@ In order to contribute to a guide, create a Pull request with your proposed chan
 
 ### Running locally
 
-1. Install Ruby `2.5.0`.
-1. Install `bundler`.
+1. Install a recent version of Ruby, along with bundler.
 1. Clone the repository.
 1. Run `bundle install`.
 1. Run `bundle exec jekyll serve`.
