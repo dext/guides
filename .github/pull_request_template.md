@@ -1,3 +1,3 @@
 What            | Where/Who
 ----------------|----------------------------------------
-Reviewers       | @skanev @mitio @gmitrev
+Reviewers       | @skanev @mitio
