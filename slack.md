@@ -25,7 +25,7 @@ You should already be in the following channels. Please join them if you are not
 
 * `#announcements` – Company-wide announcements and updates. What gets posted here is important, so we try to limit the volume of conversation and use threads, so that messages don’t get lost.
 * `#random` – Fun stuff. Anything that is non work related to keep us connected and remind us to be lighthearted.
-* `#hellos-goodbyes` – Say hello. Introduce yourself here.
+* `#movers-and-shakers` – Say hello. Introduce yourself here.
 * `#all-hands-meeting` - Notes and recordings from all-hands meetings.
 
 There are many channels for various topics, so it might be worth it to give a quick glance over the list and see if you're interested in any. But don't fret too much about it – if you are needed somewhere, people will invite you.
